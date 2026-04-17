@@ -1,0 +1,17 @@
+# Binaries and Executables
+*.exe
+*.out
+gpsa
+
+# Compiled Object files
+*.o
+*.obj
+
+# Temporary and Log files
+*.log
+*.tmp
+.vscode/
+.idea/
+
+# Large Data files (Keep source files, ignore large result dumps)
+# aligned-*.txt
